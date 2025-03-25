@@ -1,7 +1,7 @@
-# PBGas - Sistema de Gestão
+# PBGas
 
 ## Sobre o Projeto
-O PBGas é um sistema de gestão desenvolvido para oferecer funcionalidades essenciais para a administração e operação da empresa.
+O PBGas é um sistema desenvolvido para oferecer funcionalidades essenciais para a administração e operação da empresa.
 
 ## Pré-requisitos
 Antes de rodar o sistema, certifique-se de ter os seguintes requisitos instalados:
